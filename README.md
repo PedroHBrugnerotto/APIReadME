@@ -31,7 +31,7 @@ A API estará rodando na porta `3000`.
 
 A API possui um endpoint para consulta de CEP:
 
-### 📌 Endpoint: `GET /cep/:cep`
+### 📌 Exemplos
 
 **Exemplo de Requisição:**
 ```sh
