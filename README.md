@@ -23,7 +23,7 @@ npm install
 
 ### 3️⃣ Execute a Aplicação
 ```sh
-node index.js
+node server.js
 ```
 A API estará rodando na porta `3000`.
 
