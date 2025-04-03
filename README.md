@@ -25,7 +25,7 @@ npm install
 ```sh
 node server.js
 ```
-A API estará rodando na porta `3000`.
+A API estará rodando na porta `3200`.
 
 ## 🔍 Como Usar
 
@@ -35,7 +35,7 @@ A API possui um endpoint para consulta de CEP:
 
 **Exemplo de Requisição:**
 ```sh
-GET http://localhost:3000/cep/01001000
+GET http://localhost:3200/cep/01001000
 ```
 
 **Exemplo de Resposta:**
